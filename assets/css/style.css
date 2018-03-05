@@ -21,7 +21,7 @@
     background-color: #525252;
 }
 /*********************************************** Special Padding/Margins/Text*/
-h1,h2,h3,h4{
+h1,h2,h3,h4 {
     margin:0;
 }
 .uppercase{
@@ -36,7 +36,7 @@ h1,h2,h3,h4{
     display: inline-block;
 }
 .section-column {
-    padding:0 30px 30px;
+    padding: 0 30px 30px;
     float:none;
     display: table-cell;
 }
@@ -169,4 +169,12 @@ footer .cv-pdf i:hover {
 }
 #footer-details {
     margin:20px;
+}
+/*********************************************** Three Reasons*/
+.three-reasons-icon {
+    font-size: 26px;
+    color:#e67e22;
+}
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
