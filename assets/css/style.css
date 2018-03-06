@@ -30,14 +30,14 @@ h1,h2,h3,h4 {
 .general-sub{
     font-family: "Exo", sans-serif;
     font-weight: 300;
-    color:#fafafa;
+    color: #fafafa;
 }
 .inline-block {
     display: inline-block;
 }
 .section-column {
-    padding: 0 30px 30px;
-    float:none;
+    padding:0 30px 30px;
+    float: none;
     display: table-cell;
 }
 .row-table {
@@ -121,6 +121,10 @@ header {
 }
 
 
+section {
+    background-color: #525252;
+    margin:0;
+}
 /*****************************Hover****/
 .hvr-sweep-to-bottom:before{
     background: rgba(0, 0, 0, 0.2);
