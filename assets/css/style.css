@@ -8,6 +8,7 @@
 .bg-color-three-reasons {
     background-color: #ffffff;
 }
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -174,6 +175,7 @@ footer .cv-pdf i:hover {
 #footer-details {
     margin:20px;
 }
+
 /*********************************************** Three Reasons*/
 .three-reasons-icon {
     font-size: 26px;
@@ -181,4 +183,8 @@ footer .cv-pdf i:hover {
 }
 .three-reasons-heading {
     margin-bottom: 15px;
+}
+/*********************************************** Personal Info*/
+.bg-color-personal-info {
+    background-color: #f4f4f4;
 }
